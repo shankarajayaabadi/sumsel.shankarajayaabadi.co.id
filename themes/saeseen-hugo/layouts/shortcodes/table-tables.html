@@ -1,0 +1,54 @@
+<div class="table-responsive">
+  {{ with .Get "table" }}
+    {{ if eq . "table1" }}
+    <div class="table-container">
+      <h3>Daftar Harga & Aplikasi Produk</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Produk</th>
+            <th>Harga (Rp)</th>
+            <th>Area Aplikasi</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range $.Site.Params.tabelItems }}
+          <tr>
+            <td><strong>{{ .name }}</strong></td>
+            <td class="price">{{ .price }}</td>
+            <td><em>{{ index $.Site.Params.appliList .name }}</em></td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+    {{ else if eq . "table2" }}
+    <div class="table-container">
+      <h3>Spesifikasi & Kegunaan Produk</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Produk</th>
+            <th>Harga (Rp)</th>
+            <th>Keunggulan Produk</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range $.Site.Params.tabelItems }}
+          <tr>
+            <td><strong>{{ .name }}</strong></td>
+            <td class="price">{{ .price }}</td>
+            <td><em>{{ index $.Site.Params.kegunaanList .name }}</em></td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+    {{ end }}
+  {{ end }}
+  <div class="price-note">
+    <p class="price-info">
+      <i class="fas fa-info-circle"></i> Harga dapat berubah sewaktu-waktu. Hubungi kami untuk penawaran terbaik.
+    </p>
+  </div>
+</div>
