@@ -1,0 +1,25 @@
+<nav class="nav-container">
+  <div class="nav-wrapper">
+    <div class="logo">
+      <img src="{{ .Site.Params.logo }}" alt="Logo" height="40" loading="lazy">
+    </div>
+    
+    <button class="menu-toggle" aria-label="Toggle Menu">
+      <span class="menu-icon"></span>
+    </button>
+
+    <div class="nav-menu">
+      {{ range .Site.Params.menu_items }}
+        <a href="{{ .url }}">{{ .title }}</a>
+      {{ end }}
+    </div>
+  </div>
+</nav>
+
+{{ if $.IsHome }}
+<header>
+  <div class="container">
+    <h1>{{ .Site.Params.header.title }} <span class="highlight">{{ .Site.Params.header.highlight }}</span></h1>
+  </div>
+</header>
+{{ end }}

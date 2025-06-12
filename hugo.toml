@@ -1,0 +1,218 @@
+baseURL = "https://sumsel.shankarajayaabadi.co.id/"
+languageCode = "id"
+title = "Agen & Aplikator Plafon PVC & Wall Panel PVC Sumatera Selatan | Desain Modern & Harga Terjangkau"
+theme = "saeseen-hugo"
+summaryLength = 25
+
+[pagination]
+  pagerSize = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Spesialis Plafon PVC & Wall Panel PVC di Sumatera Selatan - Anti Rayap, Anti Air, Tahan Api. Solusi Interior Modern untuk rumah, kantor, dan bisnis Anda di seluruh wilayah Sumsel."
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/Shankara-logo120x80.png"
+  logo_amp = "/images/logo/Shankara-logo512x512.png"
+  footer_logo = "/images/logo/Shankara-logo120x80-putih.png"
+  favicon = "/images/logo/Shankara-logo512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Duhri"
+  telepon = "//+6281279947777"
+  whatsapp = "//api.whatsapp.com/send?phone=6281279947777&text=*Halo sumsel.shankarajayaabadi.co.id*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -3.319437
+  geo_longitude = 104.914668
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+  # Schema settings
+  keywords = ["plafon pvc sumsel", "wall panel pvc sumsel", "plafon anti rayap palembang", "plafon tahan api sumatera selatan", "wall pvc modern sumsel", "aplikator plafon palembang"]
+  base_price = 90000
+  price_range = 40000
+  free_consultation = true
+  service_types = [
+    "Plafon PVC Modern Anti Rayap",
+    "Plafon PVC Tahan Api & Anti Air",
+    "Wall Panel PVC Interior",
+    "Wall Panel PVC Exterior",
+    "Plafon PVC Motif Kayu Eksklusif"
+  ]
+  categories = ["Plafon PVC Modern", "Wall Panel PVC", "Desain Interior Sumsel"]
+  payment_methods = ["Transfer Bank", "Bayar Bertahap", "DP 50%", "Cash on Delivery"]
+  cancellation_policies = [
+    "Pembatalan dapat dilakukan sebelum pemasangan dimulai.",
+    "Pengembalian dana penuh jika hasil pemasangan tidak sesuai kesepakatan.",
+    "Revisi gratis untuk pemasangan yang kurang rapi atau tidak sesuai permintaan."
+  ]
+  area_served = [
+    "Palembang",
+    "Lubuklinggau",
+    "Prabumulih",
+    "Pagar Alam",
+    "Baturaja",
+    "Lahat",
+    "Muara Enim",
+    "Banyuasin",
+    "Ogan Ilir",
+    "Ogan Komering Ilir",
+    "Ogan Komering Ulu",
+    "Musi Banyuasin",
+    "Musi Rawas",
+    "Empat Lawang",
+    "Penukal Abab Lematang Ilir",
+    "OKU Selatan",
+    "OKU Timur"
+  ]
+  service_output = "Interior rumah, kantor, dan bisnis tampil modern, elegan, dan nyaman dengan plafon & wall panel PVC berkualitas tinggi di Sumatera Selatan."
+
+ # Hero Section
+  hero_image = "/images/admin/bg-hero-sumsel.jpg"
+  hero_title = "Plafon PVC & Wall Panel PVC Sumatera Selatan"
+  hero_description = "Percantik interior Anda di Sumatera Selatan dengan Plafon PVC & Wall Panel PVC anti rayap, anti air, dan tahan api. Pilihan motif kekinian, pemasangan profesional, dan konsultasi gratis untuk setiap kebutuhan desain Anda."
+  hero_cta_text = "Lihat Produk & Layanan Kami"
+  services_cta_text = "Lihat Produk & Harga"
+
+# Footer Section
+  footer_about_title = "Keunggulan Layanan Kami"
+  footer_about_description = "Kami menghadirkan plafon & wall panel PVC berkualitas premium untuk seluruh wilayah Sumatera Selatan. Material tahan lama, desain modern, pemasangan cepat, dan garansi resmi untuk kepuasan Anda."
+  footer_services_title = "Mengapa Pilih Kami"
+  footer_contact_title = "Hubungi Kami"
+  footer_bottom_text = "@2025 sumsel.shankarajayaabadi.co.id | Sumatera Selatan | All Rights Reserved"
+
+  # Testimonials Section
+  testimonials_title = "Testimoni Pelanggan Sumatera Selatan"
+
+  [[params.footer_services]]
+  text = "sumsel.shankarajayaabadi.co.id menawarkan solusi plafon dan wall panel PVC dengan desain modern, material premium, serta layanan konsultasi dan pemasangan profesional di seluruh Sumatera Selatan. Percayakan kebutuhan interior Anda pada tim ahli kami."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Soekarno Hatta. Kampung Sukasari, RT.15/RW.05, Talang Kelapa, Alang-Alang Lebar, Palembang City, South Sumatra 30153"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 812-7994-7777"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "shankarajayaabadi.official1@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Andi|Fauzan|Ilham|Reza|Dimas|Arief|Bagus|Rendy|Yusuf|Fikri}"
+  message = "{Pelayanan dari sumsel.shankarajayaabadi.co.id {sangat profesional|ramah|responsif}. Hasil pemasangan plafon PVC di rumah saya {sangat memuaskan|benar-benar rapi|modern sekali}.|Saya {terkesan|sangat puas|senang} dengan kualitas produk dan pemasangan yang {cepat|bersih|tepat waktu}.}"
+  response = "{Terima kasih atas {kepercayaan|pilihan} Anda! Kami selalu berusaha memberikan {hasil terbaik|layanan maksimal} untuk pelanggan di Sumatera Selatan.|Kami {mengapresiasi|berterima kasih atas} ulasan Anda. Senang bisa membantu mewujudkan interior impian Anda.}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Putri|Nadia|Vina|Citra|Mega|Indah|Tia|Rani|Della|Salsa}"
+  message = "{Saya memilih sumsel.shankarajayaabadi.co.id karena {banyak pilihan motif|harga bersaing|testimoni bagus}. Hasil pemasangan {sangat rapi|presisi|memuaskan} dan timnya {ramah|profesional|berpengalaman}.|Wall panel PVC yang dipasang {membuat rumah lebih nyaman|menambah estetika ruangan|terlihat lebih modern}. Proses konsultasi juga {mudah|jelas|membantu}.}"
+  response = "{Terima kasih atas ulasannya! Kami senang Anda puas dengan {produk|layanan} kami.|Kami {bangga|gembira} dapat membantu Anda menemukan plafon PVC yang {tepat|cocok} untuk rumah Anda di Sumatera Selatan.}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Adi|Rama|Fajar|Dian|Yoga|Rian|Gilang|Taufik|Bima|Rizal}"
+  message = "{Proses pemasangan plafon PVC {sangat cepat|tepat waktu|tanpa kendala} dan hasilnya {sangat bagus|rapi|memuaskan}.|Saya {merekomendasikan|menyarankan} sumsel.shankarajayaabadi.co.id untuk siapa saja yang ingin {plafon berkualitas|interior modern|hasil maksimal} di Sumatera Selatan.}"
+  response = "{Kami {senang|gembira} dapat memenuhi harapan Anda. Terima kasih atas {kepercayaan|pilihan} Anda!|Terima kasih telah merekomendasikan layanan kami di Sumatera Selatan. Kami akan terus {meningkatkan|mempertahankan} kualitas.}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Sari|Lestari|Mira|Dewi|Yuni|Aulia|Nisa|Rosa|Dina|Alya}"
+  message = "{Plafon PVC dari sumsel.shankarajayaabadi.co.id {membuat ruangan lebih elegan|menambah nilai estetika|tampak mewah}. Tim pemasangan {sangat teliti|profesional|ramah} dan hasilnya {memuaskan|rapi|presisi}.|Saya {sangat puas|terkesan|senang} dengan pelayanan dan kualitas produk yang diberikan.}"
+  response = "{Terima kasih atas kepercayaannya! Kami selalu berusaha memberikan {hasil terbaik|layanan maksimal} untuk pelanggan di Sumatera Selatan.|Kami {menghargai|berterima kasih atas} ulasan Anda. Senang dapat membantu mewujudkan interior impian Anda.}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Bayu|Hendra|Toni|Agung|Dedi|Yanto|Wawan|Rio|Iwan|Galih}"
+  message = "{Saya memilih sumsel.shankarajayaabadi.co.id karena {proses konsultasi mudah|harga transparan|tim profesional}. Hasil pemasangan {sangat memuaskan|rapi|tepat waktu} dan kualitas plafonnya {terbaik|premium|tahan lama}.|Plafon PVC yang dipasang {menambah kenyamanan|membuat ruangan lebih modern|sangat sesuai harapan}.}"
+  response = "{Terima kasih atas ulasannya! Kami senang dapat membantu proyek Anda.|Kami {mengapresiasi|berterima kasih atas} kepercayaan Anda. Semoga plafon PVC kami selalu memberikan kenyamanan di Sumatera Selatan.}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Dewi|Nina|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu}"
+  message = "{Pelayanan dari sumsel.shankarajayaabadi.co.id {sangat ramah|profesional|membantu}. Plafon PVC yang dipasang {sangat cocok|ideal|sesuai} dengan desain rumah saya.|Saya {senang|puas|terkesan} dengan hasil pemasangan dan kualitas produk yang diberikan.}"
+  response = "{Kami {senang|gembira} mendengar Anda puas dengan layanan kami. Terima kasih atas {kepercayaan|pilihan} Anda!|Terima kasih telah memilih produk kami. Kami akan terus memberikan yang terbaik untuk pelanggan di Sumatera Selatan.}"
+  rating = 5
+
+[[params.tabelItems]]
+  name = "Plafon PVC Modern Anti Rayap"
+  price = "370.000 /m²"
+[[params.tabelItems]]
+  name = "Plafon PVC Tahan Api"
+  price = "400.000 /m²"
+[[params.tabelItems]]
+  name = "Wall Panel PVC Interior"
+  price = "390.000 /m²"
+[[params.tabelItems]]
+  name = "Wall Panel PVC Exterior"
+  price = "440.000 /m²"
+[[params.tabelItems]]
+  name = "Plafon PVC Motif Kayu Eksklusif"
+  price = "420.000 /m²"
+
+[params.appliList]
+  "Plafon PVC Modern Anti Rayap" = "ruang tamu, ruang keluarga, kamar tidur, aula, ruang serbaguna"
+  "Plafon PVC Tahan Api" = "dapur, restoran, area publik, kantor, cafe"
+  "Wall Panel PVC Interior" = "dinding ruang tamu, partisi kantor, ruang meeting, ruang belajar"
+  "Wall Panel PVC Exterior" = "teras, balkon, fasad bangunan, area outdoor, gazebo"
+  "Plafon PVC Motif Kayu Eksklusif" = "villa, resort, hotel, rumah mewah, homestay"
+
+[params.kegunaanList]
+  "Plafon PVC Modern Anti Rayap" = "perlindungan optimal dari rayap dan kelembapan, cocok untuk iklim Sumsel"
+  "Plafon PVC Tahan Api" = "keamanan ekstra dengan material tahan api, aman untuk dapur dan area publik"
+  "Wall Panel PVC Interior" = "menciptakan suasana modern dan elegan di dalam ruangan, mudah dibersihkan"
+  "Wall Panel PVC Exterior" = "perlindungan dari cuaca ekstrem dan sinar UV, tahan lama di luar ruangan"
+  "Plafon PVC Motif Kayu Eksklusif" = "tampilan natural dan mewah dengan motif kayu premium, cocok untuk properti eksklusif"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Tentang Kami"
+    url = "https://shankarajayaabadi.co.id/profile/"
+  [[params.menu_items]]
+    title = "Harga & Katalog"
+    url = "https://shankarajayaabadi.co.id/daftar-harga/"
+
+[params.header]
+   title = "Agen & Aplikator Plafon/Wall PVC Sumatera Selatan | "
+   highlight = "PT. SHANKARA JAYA ABADI"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
