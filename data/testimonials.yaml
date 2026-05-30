@@ -1,30 +1,32 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Yusuf
-    message: Saya senang dengan kualitas produk dan pemasangan yang bersih.
+    name: Bagus
+    message: >-
+      Pelayanan dari sumsel.shankarajayaabadi.co.id responsif. Hasil pemasangan
+      plafon PVC di rumah saya sangat memuaskan.
     response: >-
-      Kami berterima kasih atas ulasan Anda. Senang bisa membantu mewujudkan
-      interior impian Anda.
+      Terima kasih atas kepercayaan Anda! Kami selalu berusaha memberikan
+      layanan maksimal untuk pelanggan di Sumatera Selatan.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Tia
+    name: Putri
     message: >-
-      Wall panel PVC yang dipasang membuat rumah lebih nyaman. Proses konsultasi
-      juga membantu.
-    response: Terima kasih atas ulasannya! Kami senang Anda puas dengan layanan kami.
+      Saya memilih sumsel.shankarajayaabadi.co.id karena harga bersaing. Hasil
+      pemasangan presisi dan timnya profesional.
+    response: >-
+      Kami bangga dapat membantu Anda menemukan plafon PVC yang cocok untuk
+      rumah Anda di Sumatera Selatan.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Taufik
+    name: Adi
     message: >-
-      Saya menyarankan sumsel.shankarajayaabadi.co.id untuk siapa saja yang
+      Saya merekomendasikan sumsel.shankarajayaabadi.co.id untuk siapa saja yang
       ingin plafon berkualitas di Sumatera Selatan.
-    response: >-
-      Terima kasih telah merekomendasikan layanan kami di Sumatera Selatan. Kami
-      akan terus meningkatkan kualitas.
+    response: Kami gembira dapat memenuhi harapan Anda. Terima kasih atas pilihan Anda!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Mira
-    message: Saya senang dengan pelayanan dan kualitas produk yang diberikan.
+    name: Yuni
+    message: Saya terkesan dengan pelayanan dan kualitas produk yang diberikan.
     response: >-
       Kami menghargai ulasan Anda. Senang dapat membantu mewujudkan interior
       impian Anda.
@@ -37,8 +39,8 @@ testimonials:
       memberikan kenyamanan di Sumatera Selatan.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Lina
-    message: Saya terkesan dengan hasil pemasangan dan kualitas produk yang diberikan.
+    name: Dewi
+    message: Saya senang dengan hasil pemasangan dan kualitas produk yang diberikan.
     response: >-
       Kami gembira mendengar Anda puas dengan layanan kami. Terima kasih atas
       pilihan Anda!
