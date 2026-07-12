@@ -1,48 +1,46 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Ilham
-    message: Saya senang dengan kualitas produk dan pemasangan yang tepat waktu.
+    name: Bagus
+    message: Saya terkesan dengan kualitas produk dan pemasangan yang cepat.
     response: >-
-      Kami berterima kasih atas ulasan Anda. Senang bisa membantu mewujudkan
-      interior impian Anda.
+      Terima kasih atas kepercayaan Anda! Kami selalu berusaha memberikan hasil
+      terbaik untuk pelanggan di Sumatera Selatan.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Tia
+    name: Nadia
     message: >-
-      Saya memilih sumsel.shankarajayaabadi.co.id karena banyak pilihan motif.
-      Hasil pemasangan sangat rapi dan timnya berpengalaman.
+      Wall panel PVC yang dipasang terlihat lebih modern. Proses konsultasi juga
+      membantu.
     response: >-
-      Kami bangga dapat membantu Anda menemukan plafon PVC yang tepat untuk
+      Kami gembira dapat membantu Anda menemukan plafon PVC yang cocok untuk
       rumah Anda di Sumatera Selatan.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Gilang
-    message: Proses pemasangan plafon PVC tepat waktu dan hasilnya sangat bagus.
+    name: Yoga
+    message: Proses pemasangan plafon PVC tanpa kendala dan hasilnya rapi.
     response: >-
-      Terima kasih telah merekomendasikan layanan kami di Sumatera Selatan. Kami
-      akan terus meningkatkan kualitas.
+      Kami senang dapat memenuhi harapan Anda. Terima kasih atas kepercayaan
+      Anda!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Dewi
-    message: >-
-      Plafon PVC dari sumsel.shankarajayaabadi.co.id membuat ruangan lebih
-      elegan. Tim pemasangan profesional dan hasilnya presisi.
+    name: Mira
+    message: Saya terkesan dengan pelayanan dan kualitas produk yang diberikan.
     response: >-
       Kami menghargai ulasan Anda. Senang dapat membantu mewujudkan interior
       impian Anda.
     rating: 5
   - avatar: /images/admin/avatar5.png
     name: Yanto
-    message: >-
-      Saya memilih sumsel.shankarajayaabadi.co.id karena tim profesional. Hasil
-      pemasangan rapi dan kualitas plafonnya premium.
-    response: Terima kasih atas ulasannya! Kami senang dapat membantu proyek Anda.
+    message: Plafon PVC yang dipasang sangat sesuai harapan.
+    response: >-
+      Kami mengapresiasi kepercayaan Anda. Semoga plafon PVC kami selalu
+      memberikan kenyamanan di Sumatera Selatan.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Lina
+    name: Ayu
     message: >-
-      Pelayanan dari sumsel.shankarajayaabadi.co.id membantu. Plafon PVC yang
-      dipasang sangat cocok dengan desain rumah saya.
+      Pelayanan dari sumsel.shankarajayaabadi.co.id sangat ramah. Plafon PVC
+      yang dipasang ideal dengan desain rumah saya.
     response: >-
       Terima kasih telah memilih produk kami. Kami akan terus memberikan yang
       terbaik untuk pelanggan di Sumatera Selatan.
